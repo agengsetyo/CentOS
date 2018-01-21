@@ -3,7 +3,7 @@
 # How To Use
 first install wget
 ```
-yum -y wget
+yum install -y wget
 ```
 ```
 wget https://raw.githubusercontent.com/agengsetyo/CentOS/master/auto.sh 
