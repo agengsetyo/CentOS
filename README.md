@@ -6,11 +6,6 @@ first install wget
 yum install -y wget
 ```
 ```
-wget https://raw.githubusercontent.com/agengsetyo/CentOS/master/auto.sh 
+wget https://raw.githubusercontent.com/agengsetyo/CentOS/master/auto.sh && chmod +x auto.sh && ./auto.sh
 ```
-```
-chmod +x auto.sh
-```
-```
-./auto.sh
 ```
