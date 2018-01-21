@@ -9,6 +9,8 @@ sudo scl enable devtoolset-4 bash
 #git clone
 sudo git clone https://github.com/fireice-uk/xmr-stak.git
 #mkdir
-sudo mkdir xmr-stak/build
+cd xmr-stak
+#mkdir
+sudo mkdir build
 #cd
-cd xmr-stak/build
+cd build
