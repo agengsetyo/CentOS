@@ -13,3 +13,5 @@ echo "enable berhasil"
 #git clone
 sudo git clone https://github.com/fireice-uk/xmr-stak.git;
 echo "git clone berhasil"
+sudo mkdir xmr-stak/build;
+cd xmr-stak/build;
