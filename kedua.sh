@@ -1,4 +1,4 @@
-sudo mkdir xmr-stak/build;
-cd xmr-stak/build;
-sudo cmake3 ..;
-sudomake install;
+mkdir xmr-stak/build
+cd xmr-stak/build
+cmake3 ..
+make install
