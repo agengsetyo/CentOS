@@ -7,7 +7,7 @@ sudo yum -y install cmake3 devtoolset-4-gcc* hwloc-devel libmicrohttpd-devel ope
 #enable
 scl enable devtoolset-4 bash
 #git clone
-git clone https://github.com/fireice-uk/xmr-stak.git
+sudo git clone https://github.com/fireice-uk/xmr-stak.git
 #mkdir
 mkdir xmr-stak/build
 #cd
